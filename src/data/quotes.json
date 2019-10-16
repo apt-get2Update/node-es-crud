@@ -1,0 +1,24 @@
+[
+  {
+    "index": {
+      "_index": "elastic.index",
+      "_type": "elastic.type"
+    }
+  },
+  {
+    "author": "quote author",
+    "quote": "quote"
+  },
+  {
+    "author": "thiru murugan",
+    "quote": "lazy"
+  },
+  {
+    "author": "murugan",
+    "quote": "super"
+  },
+  {
+    "author": "thiru ",
+    "quote": "well done"
+  }
+]
